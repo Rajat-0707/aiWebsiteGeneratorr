@@ -1,11 +1,11 @@
 # Node modules
 node_modules/
-client/node_modules/
+aiwebsitemaker/node_modules/
 server/node_modules/
 
 # Vite build output
 dist/
-client/dist/
+aiwebsitemaker/dist/
 
 # Logs
 npm-debug.log*
